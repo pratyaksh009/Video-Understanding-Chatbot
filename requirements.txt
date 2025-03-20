@@ -1,0 +1,13 @@
+langchain 
+langchain_community 
+langgraph 
+langserve
+chromadb
+streamlit 
+pytube 
+opencv-python
+moviepy 
+transformers 
+torch
+pillow 
+sentence-transformers
