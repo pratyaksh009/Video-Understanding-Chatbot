@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/pratyaksh009/Video-Understanding-Chatbot.git
 
    
    
